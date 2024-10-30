@@ -1,0 +1,106 @@
+body{
+    margin:0;
+    font-family:'Times New Roman',Times,serif;
+    background-color:#fdeeee;
+}
+.navbar{
+    position: fixed;
+    top:0;
+    width: 100%;
+    background-color:rgb(243, 73, 243);
+    text-align: right;
+}
+.navbar a{
+          color:white;
+          padding: 14px 20px;
+          text-decoration: none;
+          display: inline-block
+}
+.headar{
+    display: flex;
+    align-items:center;
+    padding: 50px;
+    background-color: white;
+}
+.career-header{
+    text-align:center;
+    font-size:36px;
+    margin: 20px 0;
+    width: 100%;
+}
+.bloka{
+    display: flex;
+    background-color: rgb(245, 69, 245);
+}
+.blokb{
+    display: flex;
+    background-color: rgb(249, 72, 249);
+}
+.headar2{
+    font-size: 72px;
+    color: rgb(242, 76, 242);
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.kotak{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+.piala{
+    background-color: rgb(244, 76, 244);
+    border-radius: 10px;
+    width: 400px;
+    margin: 0 20px;
+    padding: 20px;
+    display: flex;
+
+}
+.piala img{
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+}
+.piala-text{
+    margin-top: 20px;
+    text-align: left;
+}
+.piala-text h3{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+}
+.piala-text p{
+font-size: 14px;
+    margin-top: 10px;
+}
+.text{
+ display : flex;
+}
+.tulisan{
+ margin-left:20px;
+}
+.box{
+    text-align:left;
+}
+
+.texs{
+    text-align:center;
+}
+.pengajar{
+    margin:50px;
+}
+.krir{
+    text-align:center;
+}
+.krir2{
+    margin:50px;
+}
+.industri{
+    text-align: center;
+}
+.industri2{
+    margin: 50px;
+}
